@@ -68,5 +68,6 @@
 .countDownButton:disabled {
   background: var(--white);
   color: var(--text);
+  border-bottom: 6px solid var(--green);
   cursor: not-allowed;
 }
